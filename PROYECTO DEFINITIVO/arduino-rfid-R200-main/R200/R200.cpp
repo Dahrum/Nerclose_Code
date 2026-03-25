@@ -1,3 +1,6 @@
+// Part of this code was adapted from Alastaira (Sep 28, 2023).
+// Available at: https://github.com/playfultechnology/arduino-rfid-R200
+
 #include <Arduino.h>
 #include "r200.h"
 
