@@ -2,10 +2,10 @@
 #include <HTTPClient.h>
 #include "R200.h"
 
-const char* ssid = "MONTE FRIO";
-const char* password = "eltinto12188";
+const char* ssid = "Tu internet";
+const char* password = "Contraseña";
 
-const char* serverName = "http://192.168.80.16/rfid/guardar.php";
+const char* serverName = "Página donde estará la base de datos (xampp)";
 
 R200 rfid;
 
